@@ -1,0 +1,7 @@
+D:\Papka\CS_2_3\CS_2_3\obj\Debug\CS_2_3.csproj.CoreCompileInputs.cache
+D:\Papka\CS_2_3\CS_2_3\bin\Debug\CS_2_3.exe.config
+D:\Papka\CS_2_3\CS_2_3\bin\Debug\CS_2_3.exe
+D:\Papka\CS_2_3\CS_2_3\bin\Debug\CS_2_3.pdb
+D:\Papka\CS_2_3\CS_2_3\obj\Debug\CS_2_3.csprojAssemblyReference.cache
+D:\Papka\CS_2_3\CS_2_3\obj\Debug\CS_2_3.exe
+D:\Papka\CS_2_3\CS_2_3\obj\Debug\CS_2_3.pdb

@@ -1,0 +1,10 @@
+D:\Papka\CS_2_2\CS_2_2\obj\Debug\CS_2_2.csproj.CoreCompileInputs.cache
+D:\Papka\CS_2_2\CS_2_2\bin\Debug\CS_2_2.exe.config
+D:\Papka\CS_2_2\CS_2_2\bin\Debug\CS_2_2.exe
+D:\Papka\CS_2_2\CS_2_2\bin\Debug\CS_2_2.pdb
+D:\Papka\CS_2_2\CS_2_2\obj\Debug\CS_2_2.csprojAssemblyReference.cache
+D:\Papka\CS_2_2\CS_2_2\obj\Debug\CS_2_2.exe
+D:\Papka\CS_2_2\CS_2_2\obj\Debug\CS_2_2.pdb
+D:\Papka\CS_2_2\CS_2_2\bin\Debug\System.ValueTuple.dll
+D:\Papka\CS_2_2\CS_2_2\bin\Debug\System.ValueTuple.xml
+D:\Papka\CS_2_2\CS_2_2\obj\Debug\CS_2_2.csproj.CopyComplete

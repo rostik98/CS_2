@@ -1,0 +1,7 @@
+D:\Papka\CS_2_1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Papka\CS_2_1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Papka\CS_2_1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Papka\CS_2_1\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+D:\Papka\CS_2_1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Papka\CS_2_1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Papka\CS_2_1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
